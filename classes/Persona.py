@@ -6,4 +6,4 @@ class Persona:
 
 def saludar(self):
     print(f'Hola me llamo {self.nombre}')
-    print(f'mi edad es {self.edad} y me gusta programar')
+    print(f'mi edad es {self.edad} y me gusta programar java y JS')
